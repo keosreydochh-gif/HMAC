@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Attendance v1.3 (Live Success)",
+  "description": "A high-security attendance system that verifies user network IP before allowing check-ins, featuring an admin dashboard for user management, IP whitelisting, and Excel reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
